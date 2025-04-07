@@ -24,8 +24,7 @@ pkg update -y && pkg upgrade -y
 pkg install git python -y
 git clone https://github.com/coderxeg/cyHackers.git
 cd cyHackers
-pip install -r requirements.txt
-python p.py
+python CyHackers.py
 ```
 
 ---
@@ -71,7 +70,7 @@ python p.py
 ---
 
 ## 📬 **الدعم والاتصال**  
-- **تليجرام:** [@coderxeg](https://t.me/coderxeg)  
+- **تليجرام:** [@coderxeg](https://t.me/pythonforbot1)  
 - **القناة:** [Story_GA](https://t.me/Story_GA)  
 - **GitHub:** [coderxeg](https://github.com/coderxeg)  
 
